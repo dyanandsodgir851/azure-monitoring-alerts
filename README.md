@@ -1,6 +1,5 @@
 # azure-monitoring-alerts
 Show Monitoring knowledge
-# Azure Monitoring & Alerts
 
 ## Covered Topics
 - Azure Monitor
